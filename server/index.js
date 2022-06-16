@@ -10,4 +10,4 @@ const webpackConfig = require('../webpack/webpack.config');
 devMiddleware(app, webpackConfig);
 
 // Start app.
-app.listen('5000');
+app.listen('4000');
