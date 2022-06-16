@@ -4,7 +4,7 @@
 
 | Skill       | Version |
 |:------------|:--------|
-| React       | 18.0.0  |
+| React       | 18.2.0  |
 | Typescript  | 4.7.3   |
 | Yarn Berry  | 3.2.0   |
 | Webpack     | 5.73.0  |
