@@ -1,0 +1,21 @@
+{
+  "name": "react-real-estate",
+  "version": "1.0.0",
+  "description": "| Skill       | Version |\r |:------------|:--------|\r | React       | 18.0.0  |\r | Typescript  | 4.6.4   |\r | Yarn Berry  | 3.2.0   |\r | Webpack     | 5.7.21  |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujaen/react-real-estate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujaen/react-real-estate/issues"
+  },
+  "homepage": "https://github.com/mujaen/react-real-estate#readme",
+  "packageManager": "yarn@3.2.1"
+}
