@@ -7,7 +7,7 @@
 | React       | 18.0.0  |
 | Typescript  | 4.6.4   |
 | Yarn Berry  | 3.2.0   |
-| Webpack     | 5.7.21  |
+| Webpack     | 5.73.0  |
 
 ## Set up
 
