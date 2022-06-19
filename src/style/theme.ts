@@ -1,11 +1,10 @@
 const colors = {
-    primary: "red",
-    secondary: "white",
+  primary: 'red',
+  secondary: 'white',
 }
 
 export const themeStyles = {
-    colors,
-};
+  colors,
+}
 
-export type Theme = typeof themeStyles;
-
+export type Theme = typeof themeStyles
